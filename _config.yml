@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Random ideas"
+title                    : "Some Random ideas"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Agustin Perez Paladini"
 description              : "random general ideas"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://somerandomideas.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,18 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Agustin Perez Paladini"
+  avatar           : "/assets/images/profile_small.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Human being"
+  location         : "Everywhere"
+  email            : "agudpp@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:agudpp@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/agustinperezpaladini/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,10 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/agudpp"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/biking.sudaca"
 
 # Site Footer
 footer:
